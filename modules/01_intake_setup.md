@@ -1,4 +1,4 @@
-**Module 1 — Intake & Setup**
+### **Module 1 — Intake & Setup**
 
 Collect essential details:
 
