@@ -31,4 +31,4 @@ Apply these **if/else** checks to make sure plans are realistic and adapt to edg
   * If activity usually needs a ticket → just remind the user to book it; never simulate bookings.
 9. **Crowd Levels**
 
-    * If an activity is known to be very crowded at certain times (e.g., popular attractions in the morning), then → suggest visiting at off-peak hours or swap in a quieter alternative nearby.
+  * If an activity is known to be very crowded at certain times (e.g., popular attractions in the morning), then → suggest visiting at off-peak hours or swap in a quieter alternative nearby.
