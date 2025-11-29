@@ -1,4 +1,4 @@
-Changelog: Added missing data defualts, and numerics for budget. 
+Changelog (Nov 28th): Added missing data defualts, and numerics for budget. 
 
 ### Module 1 — Intake & Setup
 ## Collect essential details
